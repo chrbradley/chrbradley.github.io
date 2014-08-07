@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogger's Creed:
+title: Blogger Creed:
 ---
 
 This is my Blog. There are many like it but this one is mine.
