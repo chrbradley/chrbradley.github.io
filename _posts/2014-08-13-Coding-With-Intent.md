@@ -3,9 +3,6 @@ published: true
 layout: post
 title: Coding With Intent
 ---
-
-## Coding With Intent
-
 Hi.
 
 This blog post is kick's off a series that will venture through different aspects of software engineering with javascript. I'll present topics in context and application to the famous [nQueens puzzle](http://en.wikipedia.org/wiki/Eight_queens_puzzle "nQueens"). A variety of topics will be covered in this series including recursion, "this", instantiation patterns and test driven development.
