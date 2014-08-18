@@ -5,9 +5,9 @@ title: Coding With Intent
 ---
 Hi.
 
-This blog post kicks off a series that will venture through different aspects of software engineering with javascript. I’ll present topics in context and application to the famousnQueens puzzle. A variety of topics will be covered in this series including recursion, “this”, instantiation patterns, time complexity and test driven development.
+This blog post kicks off a series that will venture through different aspects of software engineering with javascript. I’ll present topics in context and application to the famous [nQueens puzzle](http://en.wikipedia.org/wiki/Eight_queens_puzzle "nQueens"). A variety of topics will be covered in this series including recursion, “this”, instantiation patterns, time complexity and test driven development.
 
-To get started, I’m going to outline a process I try to practice when I write code with the intent of solving a problem. This process has been directly extrapolated from a lecture entitled Alogrithm of an Alogrithm given by Hack Reactor instructor Phillip Alexander.
+To get started, I’m going to outline a process I try to practice when I write code with the intent of solving a problem. This process has been directly extrapolated from a lecture entitled Alogrithm of an Alogrithm given by [Hack Reactor](http://www.hackreactor.com/ "Hack Reactor") instructor [Phillip Alexander](https://github.com/phillipalexander "Phillip Alexander").
 
 First, it helps to think about the question What is an Algorithm? Generally an algorithm can be thought of as a procedure that generates a result. We encounter alogithms everyday. A common example that everybody is familiar with would be a recipie in a cookbook. Here we have a specific set of instructions, the steps listed in the recipie, that operate on a given set of inputs, the ingredients, and produce a result, a chocolate cake perhaps.
 
