@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: "An Education"
+title: An Education
 ---
 
 Eight weeks ago I enrolled in [Hack Reactor](http://www.hackreactor.com/ "Hack Reactor")'s first Remote Beta Cohort. In this post I'll describe what my experience has been like so far, what I think they do well and where I'd like to see improvement.
